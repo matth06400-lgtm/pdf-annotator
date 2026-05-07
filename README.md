@@ -1,4 +1,4 @@
-# PDF Annotator — ESTEREL CARTAU
+# PDF Annotator — ESTEREL 
 ## Guide de déploiement sur Render.com
 
 ---
